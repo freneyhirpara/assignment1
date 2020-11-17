@@ -1,0 +1,161 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+
+}
+#title{
+  background-color: #222831;
+  color: white;
+  width: 100%;
+  position: fixed;
+z-index:1000;
+top:0;
+left:0;
+  height: 100px;
+
+}
+.container-fluid{
+  padding: 1% 7% 1%;
+
+
+}
+.navbar{
+  padding: 0 0 0;
+
+}
+.nav-item{
+  padding: 0px 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+.navbar-brand{
+
+  font-size: 2.5rem;
+}
+
+.block{
+
+  height: 400px;
+  width: 100%;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: black;
+}
+
+.punchline{
+  font-size: 2rem;
+  padding-top: 225px;
+  padding-left: 7%;
+
+
+}
+.texts{
+  height: 150px;
+  width: 100%;
+  background-color: #9ad3bc;
+
+}
+p{
+  color: white;
+  text-align: center;
+  padding: 7%;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  font-size: 1.2rem;
+}
+
+
+
+#features{
+  padding: 2% 9%;
+  background-color: #fff;
+  position: relative;
+  z-index: 0;
+}
+
+
+.features-box h3{
+  font-size: 1.5rem;
+
+
+}
+
+.features-box p{
+  color: #8f8f8f;
+  font-weight: 100;
+
+}
+.features-box{
+  padding: 5%;
+  text-align: center;
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+
+
+.client-p{
+  font-size: 2rem;
+}
+
+#press{
+  text-align: center;
+  background-color: #f5b461  ;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#footer{
+  text-align: center;
+  padding: 7% 7%;
+  height: 250px;
+}
+.f-icons{
+  margin: 2% 3%;
+
+}
+#footer p{
+  font-weight: lighter;
+}
+
+.footer-text{
+  color:black;
+}
+
+
+
+
+.product{
+  display: flex;
+  position: relative;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 20px;
+  border-bottom: 1px solid lightgrey;
+  opacity: 1;
+  cursor: pointer;
+}
+.product:hover{
+  opacity: 0.8;
+}
+.info{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 20px;
+}
+.heart{
+  position: absolute;
+  top: 20px;
+  right: 40px;
+}
