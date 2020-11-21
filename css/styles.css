@@ -75,6 +75,9 @@ p{
   .texts{
     height: 230px;
   }
+  .block{
+    height:500px;
+  }
 
 }
 
