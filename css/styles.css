@@ -37,9 +37,9 @@ body{
 
 .block{
 
-  height: 400px;
+  height: 800px;
   width: 100%;
-  background-image: url("https://cdn3.f-cdn.com/contestentries/1292136/24996757/5abe3e976029e_thumb900.jpg");
+  background-image: url("https://www.myfitnesschat.com/wp-content/uploads/2019/03/pexels-photo-1509428.jpeg");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   color: white;
@@ -55,7 +55,7 @@ body{
 .texts{
   height: 215px;
   width: 100%;
-  background-color: #9ad3bc;
+  background-color: #222831;
 
 }
 p{
@@ -101,18 +101,12 @@ p{
   padding: 5%;
   text-align: center;
 }
-.icon{
-  color: #ef8172;
-  margin-bottom: 1rem;
-}
-.icon:hover{
-  color: #ff4c68;
-}
+
 
 #ourproducts{
 
   text-align: center;
-  background-color: #9ad3bc;
+  background-color: #222831;
   color: #fff;
 }
 .carousel-item{
@@ -144,6 +138,8 @@ p{
   width: 15%;
   margin: 20px 20px 50px;
 }
+
+
 
 #footer{
   text-align: center;
